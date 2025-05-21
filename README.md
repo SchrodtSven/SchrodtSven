@@ -8,7 +8,7 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 
 - <i>Developer</i>
 - <i>DevOps and</i> <i>Networking</i> person
-- <i>Solaris</i>, <i>Linux</i> and <i>MacOS</i> technician
+- <i>Solaris</i>, <i>Linux</i> and <i>MacOS</i> enthusiast
 - <i>Relational Database</i> guy
 - (Part-time) <i>Requirements Engineering</i> & <i>Project Management</i> boy
 - <i>Zend Certified Engineer</i> 
@@ -20,6 +20,7 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 - (Former) <i>Geotechnical, Mining and Geospatial Engineering</i> professional
 - <i>Industriekaufmann</i> (IHK)
 - <i>Marketing-Controller</i> (InBIT)
+- technician
 - Older male <i>Human being</i> (*1970)
 
 
@@ -37,12 +38,32 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 - C
 - Java
 - Perl
-- ECMA-Script (Javascript, JScript)
+- ECMA-Script 
+    - (Javascript, JScript)
 - Pascal
 - (Visual) Basic
 - HTML, XHTML, HTML 5
 - XML
 - CSS
-- Assembly (6502, Z80, 60k,  8086)
+- Assembly 
+    - (6502, Z80, 60k,  8086)
+
+
+### Project-, Service- and Process management
+- Scrum (Developer, Master, Product Owner)
+- Kanban
+- PRINCE<sup>2</sup>
+- <abbr title="Information Technology Infrastructure Library">ITIL</abbr>
+
+
+
+
+
+
+
+
+
+
 
 <em>tbc ...</em>
+
