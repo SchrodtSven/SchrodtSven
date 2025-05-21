@@ -15,11 +15,34 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 - Trainer <i>Zend Academy</i>
 - Trainer <i>Oracle University</i> 
 - Former Trainer <i>IHK-Akademie Ostwestfalen</i>, Bielefeld
-- <i>Trainer for professions</i> in DE (de: „Ausbilder“ gem. <u>AEVO: )
-    <small>(„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse)</small>
+- <i>Trainer for professions</i> in DE (de: „Ausbilder“ gem. <u><abbr title="Ausbilder-Eignungsverordnung">AEVO</abbr>): 
+    <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
 - (Former) <i>Geotechnical, Mining and Geospatial Engineering</i> professional
 - <i>Industriekaufmann</i> (IHK)
 - <i>Marketing-Controller</i> (InBIT)
 - Older male <i>Human being</i> (*1970)
+
+
+
+## Skills - IT
+
+### Languages
+
+- Python
+- ARM Assembly
+- Rust
+- PHP
+- Zephir
+- SQL	 
+- C
+- Java
+- Perl
+- ECMA-Script (Javascript, JScript)
+- Pascal
+- (Visual) Basic
+- HTML, XHTML, HTML 5
+- XML
+- CSS
+- Assembly (6502, Z80, 60k,  8086)
 
 <em>tbc ...</em>
