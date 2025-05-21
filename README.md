@@ -2,7 +2,14 @@
 
 Hello,
 
-my name is Sven - currently I am on a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time>
+my name is Sven - currently I am on a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time>.
+I am aiming for further qualifications in:
+
+- Python
+- Data Analytics
+- <abbr title="Business Analytics">BI</abbr>
+- Machine Learning
+
 
 ## Profile
 
@@ -21,8 +28,13 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 - <i>Industriekaufmann</i> (IHK)
 - <i>Marketing-Controller</i> (InBIT)
 - Hobbyist Robotics technician
+- <i>CNC</i> & <i>Additive Manufacturing</i> newbie
 - Older male <i>Human being</i> (*1970)
 
 
 
 <em>tbc ...</em>
+
+## Note 2 mySelf
+
+- [ ] cleaning other repos
