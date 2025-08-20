@@ -25,7 +25,7 @@ Here I am aiming for further qualifications in:
 - (Part-time) <i>Requirements Engineering</i> & <i>Project Management</i> boy
 - <i>Zend Certified Engineer</i> 
 - <i>Trainer for professions</i> in Germany (de: „Ausbilder“ gem. <u><abbr title="Ausbilder-Eignungsverordnung">AEVO</abbr>): 
-    <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
+    -  <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
 - Trainer <i>Zend Academy</i>
 - Trainer <i>Oracle University</i> 
 - Trainer <i>IHK-Akademie Ostwestfalen</i>, Bielefeld
