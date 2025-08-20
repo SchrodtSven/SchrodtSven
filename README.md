@@ -20,22 +20,18 @@ I am aiming for further qualifications in:
 - <i>Relational Database</i> guy
 - (Part-time) <i>Requirements Engineering</i> & <i>Project Management</i> boy
 - <i>Zend Certified Engineer</i> 
+- <i>Trainer for professions</i> in Germany (de: „Ausbilder“ gem. <u><abbr title="Ausbilder-Eignungsverordnung">AEVO</abbr>): 
+    <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
+- <i>Industriekaufmann</i> (IHK)
+- <i>Marketing-Controller</i> (InBIT)
+- (Former) Geotechnical, Mining and Geospatial Engineering professional
 - (Former) Trainer <i>Zend Academy</i>
 - (Former) Trainer <i>Oracle University</i> 
 - (Former) Trainer <i>IHK-Akademie Ostwestfalen</i>, Bielefeld
-- <i>Trainer for professions</i> in DE (de: „Ausbilder“ gem. <u><abbr title="Ausbilder-Eignungsverordnung">AEVO</abbr>): 
-    <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
-- (Former) <i>Geotechnical, Mining and Geospatial Engineering</i> professional
-- <i>Industriekaufmann</i> (IHK)
-- <i>Marketing-Controller</i> (InBIT)
-- Hobbyist Robotics technician
-- <i>CNC</i> & <i>Additive Manufacturing</i> newbie
-- Older male <i>Human being</i> (*1970)
-
 
 
 <em>tbc ...</em>
 
 ## Note 2 mySelf
 
-- [ ] cleaning other repos
+- [ ] cleaning, wiping other repos

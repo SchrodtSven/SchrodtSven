@@ -1,20 +1,5 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# PyPI configuration file
-.pypirc
-
 # local stuff
-dcda/
-ecma/
-grube.py
+grube.*
 tmp/
 .DS_Store
-api.cfg.ini
-*.ipynb
-*.pages
+
