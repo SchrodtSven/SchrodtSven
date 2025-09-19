@@ -10,10 +10,10 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 
 Here I am aiming for further qualifications in:
 
-- Python
-- Data Analytics
-- <abbr title="Business Analytics">BI</abbr>
-- Machine Learning
+- [x] Python
+- [x] Data Analytics
+- [ ] <abbr title="Business Analytics">BI</abbr>
+- [x] Machine Learning
 
 ### 
 
