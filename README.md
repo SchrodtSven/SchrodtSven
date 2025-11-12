@@ -8,12 +8,14 @@ Hello,
 
 my name is Sven - currently I am on a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time>.
 
-Here I am aiming for further qualifications in:
+Here I am aiming for (further) qualifications in:
 
 - [x] Python
-- [x] Data Analytics
-- [x] <abbr title="Business Intelligence">BI</abbr>
+- [x] Statistics
+- [x] Business Analytics
 - [x] Machine Learning
+- [x] Tools (Knime, Power BI)
+- [x] SQL (SQLite, PostgreSQL)
 
 #### Certificate
 
