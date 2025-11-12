@@ -10,8 +10,9 @@ my name is Sven - currently I am on a continuing education as <i>Data Analyst</i
 
 Here I am aiming for (further) qualifications in:
 
-- [x] Python
+- [x] Python (incl. data * eco system)
 - [x] Statistics
+- [x] Data Analytics (EDA, Visualization, Prediction)
 - [x] Business Analytics
 - [x] Machine Learning
 - [x] Tools (Knime, Power BI)
