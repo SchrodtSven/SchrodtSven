@@ -6,7 +6,7 @@
 
 Hello,
 
-my name is Sven - I currently finished a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time> to aquire (further) qualifications in:
+my name is Sven - I just finished a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time> to aquire (further) qualifications in:
 
 - [x] Python (incl. data * eco system, AI & visualization)
 - [x] Statistics
