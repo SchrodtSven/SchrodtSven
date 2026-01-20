@@ -1,8 +1,5 @@
 # SchrodtSven
 
-## Profile
-
-### Current station 
 
 Hello,
 
@@ -15,6 +12,8 @@ my name is Sven - I just finished a continuing education as <i>Data Analyst</i> 
 - [x] Machine Learning
 - [x] Tools (Knime, Power BI)
 - [x] SQL (SQLite, PostgreSQL)
+
+## Profile
 
 #### Certificates
 
