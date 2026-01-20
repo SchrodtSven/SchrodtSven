@@ -6,9 +6,9 @@
 
 Hello,
 
-my name is Sven - currently I am on a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time>.
+my name is Sven - I currently finished a continuing education as <i>Data Analyst</i> @ [DataCraft, Munich](https://www.data-craft.de/) until <time date="2025-12-31">Dec 2025</time>.
 
-Here I am aiming for (further) qualifications in:
+to aquire (further) qualifications in:
 
 - [x] Python (incl. data * eco system)
 - [x] Statistics
@@ -18,12 +18,12 @@ Here I am aiming for (further) qualifications in:
 - [x] Tools (Knime, Power BI)
 - [x] SQL (SQLite, PostgreSQL)
 
-#### Certificate
+#### Certificates
 
 <img src = "https://badges-api.ihk-kompetenz.plus/public/badges/image/dc6b1c5b-de3a-45eb-9d5d-db45829ed00c" width ="490">
 - <a href="https://badges.ihk-kompetenz.plus/assertion/5a549a2d-2bb2-4e3d-b1eb-33b0a0db6ced?id=U2FsdGVkX18ppU9nlEG1YQNRFjaDopVZvvo/DpKiOLQrnMzNcHCTcCAoTaXYQHfw">Info + Validation</a>
 
-
+- <img src ="https://schrodt.nrw/bin/zce53.jpg" alt="Zend Certified Engineer">
 
 
 
