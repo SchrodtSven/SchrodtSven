@@ -49,5 +49,6 @@ my name is Sven - I just finished a continuing education as <i>Data Analyst</i> 
 - CAD
 
 
-### Foo 
-<img src ="https://schrodt.nrw/bin/zce53.jpg" alt="Zend Certified Engineer" width ="150">
+### Older Cert
+
+<a href="https://www.zend-zce.com/en/yellow-pages/ZEND016894"><img src ="https://schrodt.nrw/bin/zce53.jpg" alt="Zend Certified Engineer" width ="150"></a>
