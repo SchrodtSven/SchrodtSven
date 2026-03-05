@@ -9,7 +9,7 @@ my name is Sven - I just finished a continuing education as <i>Data Analyst</i> 
 - [x] Statistics
 - [x] Data Analytics (EDA, Visualization, Prediction)
 - [x] Business Analytics
-- [x] Machine Learning
+- [x] Machine Learning / Artificial Intelligence
 - [x] Tools (Knime, Power BI)
 - [x] SQL (SQLite, PostgreSQL)
 
@@ -26,7 +26,7 @@ my name is Sven - I just finished a continuing education as <i>Data Analyst</i> 
 
 
 
-### Almost recent  stations
+### Almost recent stations
 
 - <i>Developer</i> (Backend, Fullstack-Web, Legacy Assembler)
 - <i>DevOps and</i> <i>Networking</i> person
